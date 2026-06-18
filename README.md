@@ -36,5 +36,7 @@ Future Scope
 - Learning Analytics Dashboard
 
 Developed By
+    -SHAIK MUBEER BASHA 
 
+    For
 Internship Project Submission
